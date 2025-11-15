@@ -1,18 +1,21 @@
-# Web-Design-Rules
+## Project Overview
 
-GOOD DESIGN:
+This is a static website project demonstrating web design principles through a fictional "Lisbon Chair Shop" landing page. The project is deployed at [**GitHub Pages**](https://reza-izadi.github.io/Web-Design-Rules/)
 
-✅ Creates an immediate and lasting good
-impression of the brand or product;
+The site showcases good design practices including:
 
-✅ Makes the user trust the brand right
-away;
+- Creating immediate and lasting brand impressions
+- Building user trust
+- Increasing perceived value
+- Providing clear user pathways
 
-✅ Increases the user’s perceived value of the
-brand or product;
+## Design Principles Applied
 
-✅ Gives users exactly what they were
-looking for when coming to the site, e.g.
-purchasing a product or finding information.
+When making changes, maintain these design principles evident in the codebase:
 
-[**GitHub Pages**](https://reza-izadi.github.io/Web-Design-Rules/)
+- **Visual Hierarchy**: Clear h1 > h2 > h3 hierarchy with defined font sizes
+- **Whitespace**: Generous spacing between sections (96px margin-bottom)
+- **Consistency**: Adherence to the spacing and font size systems
+- **Depth**: Use of shadows and border-radius for visual layering
+- **Brand Colors**: Teal green (`#087f5b`) as primary action color and brand identifier
+- **Accessibility**: Semantic HTML structure with meaningful alt text on images
